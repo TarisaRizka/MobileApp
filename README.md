@@ -1,4 +1,4 @@
-# finalproject_mobapp
+# Final Project
 
 A new Flutter project.
 
